@@ -1,0 +1,7 @@
+{
+  "name": "TRIVIUM Technologies & Services",
+  "description": "A high-end software company website showcasing AI-powered business solutions, automation, and analytics with an integrated 24/7 AI support assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
